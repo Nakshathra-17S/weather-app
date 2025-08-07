@@ -5,6 +5,7 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 - 🎨 Currently working with **HTML, CSS**, and diving into **Bootstrap** for responsive web design
 - 💡 Exploring web development step-by-step with hands-on practice
 - 💻 Planning to start building mini projects and explore GitHub collaboration soon!
+- help me or suggest some more ideas through my mail-cgrshiva@gmail.com
 
 🛠️ Skills:
 - 🌐 Web: HTML, CSS
