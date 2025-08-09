@@ -26,6 +26,53 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 Welcome to my learning journey into tech. I'm currently building my skills in **Python**, **HTML/CSS**, and **Bootstrap**, with plans to explore **Web Dev**, **DevOps**, **AI/ML**, and **Cloud** soon!
 
 ---
+<!-- GitHub Profile README for Nakshathra-17S -->
+
+
+<h3 align="center"> Naksh's   , A passionate developer exploring Web Development, AI/ML, and Cloud Technologies</h3>
+
+---
+
+### 🛠 Skills & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming%20Languages-4CAF50?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nakshathra-17S&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshathra-17S&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📂 Projects
+- 🚧 Coming soon: My portfolio of projects will be displayed here!
+
+---
+
+### 📬 Contact Me
+
+<p align="center">
+  📧 <a href="mailto:cgrshiva@gmail.com">cgrshiva@gmail.com</a>  
+  🌐 <a href="https://github.com/Nakshathra-17S">GitHub Profile</a>
+</p>
+
+---
+⭐ *Always learning, always building.*
+
 
 ## 🧠 What I'm Learning Now
 - ✅ Python (Basics, Variables, Loops, Functions)
