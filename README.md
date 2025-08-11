@@ -63,6 +63,11 @@ Welcome to my learning journey into tech. I'm currently building my skills in **
 
 ### 📂 Projects
 - 🚧 Coming soon: My portfolio of projects will be displayed here!
+- my protfolio(using codepen)
+https://codepen.io/nakshathra-govindaraju/pen/yyYzabm
+- my easiset and favourite recipe(using codepen)
+- https://codepen.io/nakshathra-govindaraju/pen/ZYGrKNP
+
 
 ---
 
