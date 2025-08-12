@@ -71,6 +71,8 @@ https://codepen.io/nakshathra-govindaraju/pen/yyYzabm
 -python automation tasks-guided by chatgpt
 - https://github.com/Nakshathra-17S/-python-automation-task
 
+AI/ML projects (using google collab)
+https://github.com/Nakshathra-17S/AI-ML-Projects/blob/main/house_price_prediction.ipynb
 
 ---
 
