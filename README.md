@@ -67,6 +67,9 @@ Welcome to my learning journey into tech. I'm currently building my skills in **
 https://codepen.io/nakshathra-govindaraju/pen/yyYzabm
 - my easiset and favourite recipe(using codepen)
 - https://codepen.io/nakshathra-govindaraju/pen/ZYGrKNP
+- 
+-python automation tasks-guided by chatgpt
+- https://github.com/Nakshathra-17S/-python-automation-task
 
 
 ---
