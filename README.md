@@ -21,7 +21,8 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 Welcome to my learning journey into tech. I'm currently building my skills in **Python**, **HTML/CSS**, and **Bootstrap**, with plans to explore **Web Dev**, **DevOps**, **AI/ML**, and **Cloud** soon!
 
@@ -29,7 +30,6 @@ Welcome to my learning journey into tech. I'm currently building my skills in **
 <!-- GitHub Profile README for Nakshathra-17S -->
 
 
-<h3 align="center"> Naksh's   , A passionate developer exploring Web Development, AI/ML, and Cloud Technologies</h3>
 
 ---
 
