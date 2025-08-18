@@ -28,6 +28,8 @@ Welcome to my learning journey into tech. I'm currently building my skills in **
 
 ---
 <!-- GitHub Profile README for Nakshathra-17S -->
+### my leetcode exercise
+https://leetcode.com/problems/permutations/submissions/1739394036 -solving permutations(using chatgpt)
 
 
 
