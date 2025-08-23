@@ -5,13 +5,13 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 - 🎨 Currently working with **HTML, CSS**, and diving into **Bootstrap** for responsive web design
 - 💡 Exploring web development step-by-step with hands-on practice
 - 💻 Planning to start building mini projects and explore GitHub collaboration soon!
+- i am learning AI fundamentals with IBM skills build
 - help me or suggest some more ideas through my mail-cgrshiva@gmail.com
 
 🛠️ Skills:
-- 🌐 Web: HTML, CSS
-- 🐍 Learning Python
-- 🚀 DevOps (Coming soon): Git, GitHub, Deployment 
-- 🎨 Styling: Bootstrap (currently learning)
+- 🌐 Web: HTML, CSS,python,AI fundamentals
+-🚀 DevOps (Coming soon): Git, GitHub, Deployment 
+- 🎨 Styling: Bootstrap
 - 🛠️ Tools: Visual Studio Code, Git, GitHub
 
 📌 Projects:
@@ -40,12 +40,12 @@ https://leetcode.com/problems/permutations/submissions/1739394036 -solving permu
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
  <h1>to be perfected in the beneath</h1> 
 
   
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+   <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -94,7 +94,8 @@ https://github.com/Nakshathra-17S/AI-ML-Projects/blob/main/house_price_predictio
 - ✅ HTML (Forms, Lists, Semantic Tags)
 - ✅ CSS (Selectors, Layouts, Flexbox)
 - ✅ Bootstrap (Grid, Buttons, Forms)
-
+- ✅ python
+- ✅ AI  fundamenatls
 ---
 
 ## 🚀 Upcoming Learning Goals
@@ -110,7 +111,8 @@ https://github.com/Nakshathra-17S/AI-ML-Projects/blob/main/house_price_predictio
 - YouTube (Code.io for Python)
 - LeetCode (for practice)
 - W3Schools / MDN Docs (for HTML/CSS/Bootstrap)
-
+- python (from youtube-error makes clever)
+- AI fundamentals(IBM skills build)
 ---
 
 ## 📌 Projects So Far
