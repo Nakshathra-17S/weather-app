@@ -76,7 +76,12 @@ https://codepen.io/nakshathra-govindaraju/pen/yyYzabm
 AI/ML projects (using google collab)
 https://github.com/Nakshathra-17S/AI-ML-Projects/blob/main/house_price_prediction.ipynb
 
----
+memory requirement -https://github.com/Nakshathra-17S/c-memory-requirements
+c learning projects
+
+1)distance between two given coordinates -https://github.com/Nakshathra-17S/c--learning-projects
+
+
 
 ### 📬 Contact Me
 
