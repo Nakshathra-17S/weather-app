@@ -82,7 +82,7 @@ c learning projects
 1)distance between two given coordinates -https://github.com/Nakshathra-17S/c--learning-projects
 
 
-
+2)grade system based on the criteria--https://www.programiz.com/online-compiler/3puhalpayY0B3
 ### 📬 Contact Me
 
 <p align="center">
