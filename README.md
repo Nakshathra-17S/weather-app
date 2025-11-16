@@ -7,6 +7,8 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 - 💻 Planning to start building mini projects and explore GitHub collaboration soon!
 - i am learning AI fundamentals with IBM skills build
 - i earned a digital credential in IBM skillbuild by completing AI Fundamentals (https://www.credly.com/badges/8c3fc592-552e-4539-90ed-0b6815c222b) this is my badge
+- <img width="160" height="123" alt="image" src="https://github.com/user-attachments/assets/d1aed8d4-8136-4ea4-bcfd-f6969436a02b" />
+
 - help me or suggest some more ideas through my mail-cgrshiva@gmail.com
 
 🛠️ Skills:
@@ -42,6 +44,8 @@ https://leetcode.com/problems/permutations/submissions/1739394036 -solving permu
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img width="160" height="123" alt="image" src="https://github.com/user-attachments/assets/4e298ed1-21a2-4088-90aa-88ed787c2408" />
+
  <h1>to be perfected in the beneath</h1> 
 
   
@@ -102,6 +106,7 @@ c learning projects
 - ✅ Bootstrap (Grid, Buttons, Forms)
 - ✅ python
 - ✅ AI  fundamenatls
+- ✅javascript DOM basis
 ---
 
 ## 🚀 Upcoming Learning Goals
@@ -119,6 +124,7 @@ c learning projects
 - W3Schools / MDN Docs (for HTML/CSS/Bootstrap)
 - python (from youtube-error makes clever)
 - AI fundamentals(IBM skills build)
+- Javascript DOM basis (error makes clever)
 ---
 
 ## 📌 Projects So Far
