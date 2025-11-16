@@ -6,6 +6,7 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 - 💡 Exploring web development step-by-step with hands-on practice
 - 💻 Planning to start building mini projects and explore GitHub collaboration soon!
 - i am learning AI fundamentals with IBM skills build
+- i earned a digital credential in IBM skillbuild by completing AI Fundamentals (https://www.credly.com/badges/8c3fc592-552e-4539-90ed-0b6815c222b) this is my badge
 - help me or suggest some more ideas through my mail-cgrshiva@gmail.com
 
 🛠️ Skills:
